@@ -1,4 +1,5 @@
 Student Assignment & Study Planner
+
 Requirements Specification
 1. Customer Statement of Requirements
 
@@ -64,7 +65,8 @@ The system shall display only the courses and assignments associated with the cu
 FR-14: Data Storage
 The system shall save user, course, and assignment information in a database.
 
-Non-Functional Requirements
+
+2.Non-Functional Requirements
 
 NFR-1: Usability
 The application shall provide a simple and easy-to-understand interface that allows students to navigate the system without extensive training.
@@ -86,6 +88,8 @@ The application should function through commonly used modern web browsers.
 
 NFR-7: Data Integrity
 The application should validate required information before saving records to the database.
+
+
 
 3. Data and Storage Blueprint
 Data Input
